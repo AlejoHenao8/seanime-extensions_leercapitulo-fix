@@ -1,0 +1,11 @@
+[
+  {
+    "id": "leercapitulo",
+    "name": "LeerCapitulo",
+    "version": "1.1.1",
+    "manifestURI": "https://raw.githubusercontent.com/AlejoHenao8/seanime-extensions_leercapitulo-fix/refs/heads/fix/leercapitulo-paginas/src/LeerCapitulo/manifest.json",
+    "language": "typescript",
+    "type": "manga-provider",
+    "payloadURI": "https://raw.githubusercontent.com/AlejoHenao8/seanime-extensions_leercapitulo-fix/refs/heads/fix/leercapitulo-paginas/src/LeerCapitulo/main.ts"
+  }
+]
